@@ -1,38 +1,37 @@
 <h1 align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpuM3djNnl2bW1hZHQ1MTgwcXM0cW52eWhhdGlhYTdpcHRrdXIzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mFxJAGZn31OWKExJcq/giphy.gif" width="50">
-Ciao, I'm Johan
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJlazV1d2V1NHZkY3N2cTc0dms5NDQ5YTdkZmJ6NGVmY2VxYjlsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cvRCiUkQUZZUv8KFNl/giphy.gif" width="80">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpuM3djNnl2bW1hZHQ1MTgwcXM0cW52eWhhdGlhYTdpcHRrdXIzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mFxJAGZn31OWKExJcq/giphy.gif" width="50">
+  Ciao, I'm Johan
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJlazV1d2V1NHZkY3N2cTc0dms5NDQ5YTdkZmJ6NGVmY2VxYjlsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cvRCiUkQUZZUv8KFNl/giphy.gif" width="80">
 </h1>
+
 <h3 align="center">A Software/Frontend Developer from Mexico 🇲🇽</h3>
 
 ---
 
-## 👨‍💻 About Me
+## <img src="./rojo-pokemon.gif" width="30" alt="Rojo Pokemon"> About Me
 
-- 🔭 I'm currently working on **My Programming Projects**
-- 🌱 I'm currently learning **Python, JS, and Web Development (React)**
+- <img src="./snorlax.gif" width="20"> I'm currently working on **My Programming Projects**
+- <img src="./pikmin.gif" width="30">  I'm currently learning **Python, JS, and Web Development (React)**
 
 ---
+### <img src="./negascott-negascottreal.gif" width="30" alt="Nega Scott"> Connect with me
 
-## 🌐 Connect with me
-
+---
 <p align="center">
-<a href="mailto:johan.cipriano.amador@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<p align="center">
-<a href="https://www.linkedin.com/in/johan-cipriano-amador-b6747629a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<p align="center">
-<a href="https://github.com/johanTB616">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</a>
+  <a href="mailto:johan.cipriano.amador@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/johan-cipriano-amador-b6747629a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/johanTB616">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
 ---
 
-## 🚀 Languages and Tools
+## <img src="./penguin.gif" width="40" alt="Penguin"> Languages and Tools
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -47,7 +46,8 @@ Ciao, I'm Johan
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-## Another Skills
+
+### Other Skills
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
@@ -55,20 +55,26 @@ Ciao, I'm Johan
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-## 📊 GitHub Stats
-
-![johanTB616's GitHub stats](https://github-readme-stats.vercel.app/api?username=johanTB616&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johanTB616&layout=compact&theme=dark)
-
 ---
 
-## 🔥 GitHub Streak
+## <img src="./star.gif" width="30" alt="Mario Star"> GitHub Stats <img src="./star.gif" width="30" alt="Nega Scott">
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=johanTB616&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=johanTB616&show_icons=true&theme=dark" alt="johanTB616's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johanTB616&layout=compact&theme=dark" alt="Top Langs" />
 </p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+## <img src="./star.gif" width="30" alt="Nega Scott"> GitHub Streak <img src="./star.gif" width="30" alt="Nega Scott">
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=johanTB616&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+<p align="center">
+  <img src="./kirby-dancing.gif" width="100" alt="Kirby Dancing">
+  <br>
+  Thanks for visiting my profile!
+</p>
