@@ -69,9 +69,8 @@
 ## <img src="./star.gif" width="30" alt="Nega Scott"> GitHub Streak <img src="./star.gif" width="30" alt="Nega Scott">
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=johanTB616&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=java,spring,linux,c,html,css&perline=6" alt="My Skills" />
 </p>
-
 ---
 <p align="center">
   <img src="./kirby-dancing.gif" width="100" alt="Kirby Dancing">
