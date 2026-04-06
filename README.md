@@ -59,9 +59,8 @@
 
 ## <img src="./star.gif" width="30" alt="Mario Star"> GitHub Stats <img src="./star.gif" width="30" alt="Nega Scott">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johanTB616&show_icons=true&theme=dark" alt="johanTB616's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johanTB616&layout=compact&theme=dark" alt="Top Langs" />
+<p align= "center">
+   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=johanTB616&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </p>
 
 ---
